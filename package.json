@@ -4,7 +4,7 @@
   "description": "Tugas Alta Immersive Frontend Fundamental Programming (JavaScript #2)",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --collect-coverage"
   },
   "repository": {
     "type": "git",
